@@ -10,6 +10,7 @@ Email Me 👉 ✉️ **trishiksarkar1508@gmail.com** For Collaboration/Project o
 - AI & Automation
 - Cloud & Modern Web Technologies
 
+##🧠About
 - 🔭 **I’m currently working on:** BuildZy
 - 🌱 **I’m currently learning:** AI,ML
 - 💬 **Ask me about:** Collaboration, Tech Support
