@@ -2,6 +2,8 @@
 **Founder of BuildZy ⚡  
 Building modern tech products for construction, logistics & quick commerce in India.**
 
+**A passionate Cloud Engineer || UI/UX Designer || Frontend Developer from India**
+
 Email Me 👉 ✉️ **trishiksarkar1508@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 💻 Tech Stack
@@ -10,7 +12,7 @@ Email Me 👉 ✉️ **trishiksarkar1508@gmail.com** For Collaboration/Project o
 - AI & Automation
 - Cloud & Modern Web Technologies
 
-##🧠About
+## 🧠 About
 - 🔭 **I’m currently working on:** BuildZy
 - 🌱 **I’m currently learning:** AI,ML
 - 💬 **Ask me about:** Collaboration, Tech Support
