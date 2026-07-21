@@ -1,11 +1,3 @@
-# 💫 Hi 👋, I'm Trishik Sarkar
-**Founder of BuildZy ⚡  
-Building modern tech products for construction, logistics & quick commerce in India.**
-
-**A passionate Cloud Engineer || UI/UX Designer || Frontend Developer from India**
-
-Email Me 👉 ✉️ **trishiksarkar1508@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 
 ## <img src="https://img.icons8.com/fluency/24/console.png" width="22"/> System Information
 
@@ -48,6 +40,14 @@ trishik@localhost ────────────────────�
 
 </tr>
 </table>
+
+# 💫 Hi 👋, I'm Trishik Sarkar
+**Founder of BuildZy ⚡  
+Building modern tech products for construction, logistics & quick commerce in India.**
+
+**A passionate Cloud Engineer || UI/UX Designer || Frontend Developer from India**
+
+Email Me 👉 ✉️ **trishiksarkar1508@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
 ## 💻 Tech Stack
