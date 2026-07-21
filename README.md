@@ -6,7 +6,7 @@
 
 <td width="42%" valign="top" align="center">
 
-<img src="./assets/ascii-art2.png"
+<img src="./assets/ascii-art.png"
      width="100%"
      style="display:block; max-width:520px;">
 
