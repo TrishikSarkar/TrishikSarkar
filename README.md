@@ -6,6 +6,50 @@ Building modern tech products for construction, logistics & quick commerce in In
 
 Email Me 👉 ✉️ **trishiksarkar1508@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+
+## <img src="https://img.icons8.com/fluency/24/console.png" width="22"/> System Information
+
+<table>
+<tr>
+
+<td width="48%" valign="top" align="center">
+
+<img src="./assets/ascii-art.png" width="580">
+
+</td>
+
+<td width="52%" valign="top">
+
+```text
+trishik@localhost ───────────────────────────────────────────────────────
+
+• OS:............................... macOS, Linux
+• Uptime:........................... Building Since 2006 🚀
+• Host:............................. BuildZy Commerce Pvt. Ltd.
+• Kernel:........................... Apple Silicon (M4)
+• IDE:.............................. VS Code, Android Studio
+
+• Languages.Programming: ........... TypeScript, Java, Python, C++, Dart
+• Languages.Web: ................... React, Next.js, HTML, CSS
+• Languages.Database: .............. MongoDB, Firebase, Supabase
+• Languages.Real: .................. English, Hindi, Bengali
+
+• Hobbies.Software: ................ Full Stack Development, AI, UI/UX
+• Hobbies.Hardware: ................ Badminton, Chess, OverClocking
+
+─ Contact ────────────────────────────────────────────────────────────────
+
+• Email.Personal: .................. trishiksarkar1508@gmail.com
+• LinkedIn: ........................ linkedin.com/in/trishik-sarkar
+> Founder • Full Stack Developer • AI Builder
+```
+
+</td>
+
+</tr>
+</table>
+
+
 ## 💻 Tech Stack
 - Frontend Development
 - UI/UX Design
