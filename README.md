@@ -4,15 +4,17 @@
 <table>
 <tr>
 
-<td width="48%" valign="top" align="center">
+<td width="42%" valign="top" align="center">
 
-<img src="./assets/ascii-art.png" width="580">
+<img src="./assets/ascii-art.png"
+     width="100%"
+     style="display:block; max-width:520px;">
 
 </td>
 
-<td width="52%" valign="top">
+<td width="58%" valign="top">
 
-```text
+<pre>
 trishik@localhost ───────────────────────────────────────────────────────
 
 • OS:............................... macOS, Linux
@@ -34,7 +36,7 @@ trishik@localhost ────────────────────�
 • Email.Personal: .................. trishiksarkar1508@gmail.com
 • LinkedIn: ........................ linkedin.com/in/trishik-sarkar
 > Founder • Full Stack Developer • AI Builder
-```
+</pre>
 
 </td>
 
