@@ -19,7 +19,6 @@ trishik@localhost ────────────────────�
 
 • OS:............................... macOS, Linux
 • Uptime:........................... Building Since 2006 🚀
-• Host:............................. BuildZy Commerce Pvt. Ltd.
 • Kernel:........................... Apple Silicon (M4)
 • IDE:.............................. VS Code, Android Studio
 
